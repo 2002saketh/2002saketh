@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2002saketh" alt="2002saketh" /></a> </p>
 
-- 🔭 I’m currently working on **Full time Data Engineer Project and part time Web based Projects**
+- 🔭 I’m currently working on **Full time Data Engineering Project and part time Web based Projects**
 
 - 🌱 I’m currently learning **ML, Advanced JS, Docker, AWS**
 
