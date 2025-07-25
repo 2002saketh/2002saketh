@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sakethcse18@gmail.com**
 
-- 📄 Know about my experiences [https://bronze-berny-46.tiiny.site](https://bronze-berny-46.tiiny.site)
+- 📄 Know about my experiences [https://2002saketh.github.io/portfolio_saketh/]((https://2002saketh.github.io/portfolio_saketh/))
 
 - ⚡ Fun fact **I think I am funny**
 
