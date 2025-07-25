@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full time Data Engineering Project and part time Web based Projects**
 
-- 🌱 I’m currently learning **ML, Advanced JS, Docker, AWS**
+- 🌱 I’m expert in **ML, Python, GCP , Microsoft Fabric, Advanced JS, Docker, AWS**
 
 - 👯 I’m looking to collaborate on **Open-source projects related to web development**
 
